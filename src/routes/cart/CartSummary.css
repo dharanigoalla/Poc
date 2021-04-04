@@ -1,0 +1,10 @@
+.checkoutBtn {
+  text-transform: none;
+  margin-top: 20px;
+}
+
+.container {
+  margin: 10px;
+  padding: 20px;
+  align-items: center;
+}

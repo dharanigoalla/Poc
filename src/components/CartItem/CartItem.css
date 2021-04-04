@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-between
+}
+
+.productInfo {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap
+}
+
+.productDesc {
+  margin-left: 20px;
+}
+
+.qtyActions {
+  margin: 20px 0;
+  display: flex;
+}

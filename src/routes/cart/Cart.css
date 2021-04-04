@@ -1,0 +1,14 @@
+.cartItem {
+  margin: 10px;
+  padding: 20px;
+}
+
+.root {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  height: calc(100vh - 130px);
+}
+
+.cartItemWrapper {
+  flex-grow: 1;
+}

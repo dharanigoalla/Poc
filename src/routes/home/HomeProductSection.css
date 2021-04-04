@@ -1,0 +1,59 @@
+.container {
+}
+
+.gridList {
+  flex-wrap: nowrap;
+  transform: translateZ(0);
+}
+
+.root {
+  margin-top: 20px;
+}
+
+.listItem {
+  margin: 20px;
+  height: 100% ;
+  width: 200px !important;
+  flex-grow: 1;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
+
+.priceContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.discountedPrice {
+  color: #282c4f;
+  font-weight: 600;
+}
+
+.price {
+  color: #7e818c;
+  font-size: 12px
+}
+
+.discountOff {
+  color: #ff905a;
+  font-weight: 400;
+  font-size: 13px
+}
+
+.cartAddBtn {
+  text-transform: none;
+}
+
+.card {
+  height: 100%;
+}
+
+.cardContent {
+  height: 70px;
+  width: 100%;
+}
